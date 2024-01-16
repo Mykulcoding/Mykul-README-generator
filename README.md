@@ -34,7 +34,7 @@ Example Prompts:
 Answer all the prompts and after the last question you'll see all your responses and a message saying "README.md has been successfully generated!" as shown in the screenshot and video below. Your README is ready to view and use via the other .md file attached. 
 
 ![Screenshot](./assets/node.SS_2.PNG)
-![Video](./assets/node-readme-generator-video.mp4)
+![Video](./assets/node-readme-gen-video.mp4)
 
 ## License
 
