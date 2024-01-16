@@ -1,7 +1,5 @@
 # Mykul-README-generator
 
-[![License](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://opensource.org/licenses/${data.license})
-
 ## Description
 This is a command-line application that generates a professional README file for a new project using Node.js and npm. It prompts the user for information about the project repository and then creates a high-quality README.md with sections such as Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
 
@@ -29,18 +27,18 @@ Instructions and examples for using a simple Node.js README generator. Where the
 - Step 3: Run the README Generator: node index.js [This command will initiate the prompts. Answer each prompt with the relevant information for your project.]
 
 Example Prompts:
-What is your repository called? [Mykul-README-generator]
+- What is your repository called? [Mykul-README-generator]
 
-Provide a description of your application: [This is a command-line application that generates a professional README file for a new project using Node.js and npm.]
+- Provide a description of your application: [This is a command-line application that generates a professional README file for a new project using Node.js and npm.]
 
-Answer all the prompts and after the last question you'll see all your responses and a message saying "README.md has been successfully generated!" as shown in the screenshot and video below. Your README is ready to view and use in the .md file attached. 
+Answer all the prompts and after the last question you'll see all your responses and a message saying "README.md has been successfully generated!" as shown in the screenshot and video below. Your README is ready to view and use via the other .md file attached. 
 
 ![Screenshot](./assets/node.SS_1.PNG)
 ![Video](./assets/)
 
 ## License
 
-MIT (https://img.shields.io/badge/License-MIT-blue.svg)(https://opensource.org/licenses/MIT)
+This project is licensed under the MIT License.
 
 ## Collaborators
 - [Dev Community](https://dev.to/)
