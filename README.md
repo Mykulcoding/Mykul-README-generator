@@ -35,8 +35,8 @@ Provide a description of your application: [This is a command-line application t
 
 Answer all the prompts and after the last question you'll see all your responses and a message saying "README.md has been successfully generated!" as shown in the screenshot and video below. Your README is ready to view and use in the .md file attached. 
 
-![Screenshot](./screenshot.png)
-![Video](.video)
+![Screenshot](./assets/node.SS_1.PNG)
+![Video](./assets/)
 
 ## License
 
