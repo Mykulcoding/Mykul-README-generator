@@ -35,6 +35,8 @@ Answer all the prompts and after the last question you'll see all your responses
 
 ![Screenshot](./assets/node.SS_2.PNG)
 ![Video](./assets/node-readme-gen-video.mp4)
+https://github.com/Mykulcoding/Mykul-README-generator/assets/147704782/b17a6e27-4b46-48f3-8104-4a97a820de2d
+
 
 ## License
 
